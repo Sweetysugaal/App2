@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/android/app/src/main/main.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="0.70.3">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/hermes-engine/0.70.3/hermes-engine-0.70.3-release-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/hermes-engine/0.70.3/hermes-engine-0.70.3-debug-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="0.70.31">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.70.3/react-native-0.70.3-debug-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.70.3/react-native-0.70.3-release-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native/template/android/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper1">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper2">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/node_modules/react-native-gradle-plugin/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
